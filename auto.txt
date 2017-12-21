@@ -1,0 +1,3 @@
+auto white
+start
+dump

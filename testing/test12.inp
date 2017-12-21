@@ -1,0 +1,16 @@
+# Find forced win for Black.
+java -ea qirkat.Main
+set black bww-- b---- -b--w ----- b--b-
+auto White
+seed 1273659
+dump
+@<===
+@<  b - - b -
+@<  - - - - -
+@<  - b - - w
+@<  b - - - -
+@<  b w w - -
+@<===
+start
+@black...Black wins.
+quit
